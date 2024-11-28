@@ -1,3 +1,5 @@
 burası benim anasayfam. benim hakkımda bilgilerime
 erişebilirsiniz. yakında yaptığım çalışmaları buraya
 yükleyeceğim.
+yeni commit
+git
